@@ -1,5 +1,5 @@
 # frida-ipa
-Yet another frida based iOS dumpdecrypted
+Yet another frida based iOS dumpdecrypted.Based on https://github.com/AloneMonkey/frida-ios-dump, adapted to Python 3.
 
 ## Configuration
 
